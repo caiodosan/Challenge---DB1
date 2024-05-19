@@ -110,7 +110,7 @@
             </objects>
             <point key="canvasLocation" x="4365.6488549618316" y="-596.47887323943667"/>
         </scene>
-        <!--Materias Controller Table View Controller-->
+        <!--Pesquisa-->
         <scene sceneID="L8f-Gf-HU3">
             <objects>
                 <tableViewController id="nV2-rg-Qpl" customClass="MateriasControllerTableViewController" customModule="appSchool" customModuleProvider="target" sceneMemberID="viewController">
@@ -145,7 +145,7 @@
                             <outlet property="delegate" destination="nV2-rg-Qpl" id="F4u-O3-o8Z"/>
                         </connections>
                     </tableView>
-                    <tabBarItem key="tabBarItem" systemItem="mostViewed" id="I70-8i-a2v"/>
+                    <tabBarItem key="tabBarItem" title="Pesquisa" image="magnifyingglass" catalog="system" id="I70-8i-a2v"/>
                     <navigationItem key="navigationItem" customizationIdentifier="cell" id="Oll-4c-GSl"/>
                     <connections>
                         <outlet property="searchBar" destination="FK0-m2-sat" id="LIK-Wr-FQO"/>
@@ -235,7 +235,7 @@
             </objects>
             <point key="canvasLocation" x="1887.7862595419847" y="3.5211267605633805"/>
         </scene>
-        <!--Pesquisa-->
+        <!--Match-->
         <scene sceneID="a0e-AH-05E">
             <objects>
                 <viewController id="5yg-uD-eJh" customClass="MatchController" customModule="appSchool" customModuleProvider="target" sceneMemberID="viewController">
@@ -262,7 +262,7 @@
                         <viewLayoutGuide key="safeArea" id="MYi-tL-9h4"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <tabBarItem key="tabBarItem" title="Pesquisa" image="magnifyingglass" catalog="system" id="CSf-0L-kJO"/>
+                    <tabBarItem key="tabBarItem" title="Match" image="person.2" catalog="system" id="CSf-0L-kJO"/>
                     <connections>
                         <outlet property="perfisMatch" destination="nom-wN-kDB" id="29v-gO-epw"/>
                     </connections>
@@ -493,7 +493,7 @@
                     </tabBar>
                     <userDefinedRuntimeAttributes>
                         <userDefinedRuntimeAttribute type="number" keyPath="initialIndex">
-                            <integer key="value" value="3"/>
+                            <integer key="value" value="1"/>
                         </userDefinedRuntimeAttribute>
                     </userDefinedRuntimeAttributes>
                     <connections>
@@ -511,6 +511,7 @@
         <image name="agendacapa" width="1024" height="1024"/>
         <image name="magnifyingglass" catalog="system" width="128" height="117"/>
         <image name="person" catalog="system" width="128" height="121"/>
+        <image name="person.2" catalog="system" width="128" height="87"/>
         <namedColor name="AccentColor">
             <color red="0.0" green="0.46000000000000002" blue="0.89000000000000001" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
