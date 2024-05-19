@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "email": "caio",
+        "senha": "1234"
+    },
+    {
+        "id": 2,
+        "email": "teste",
+        "senha": "321"
+    },
+    {
+        "id": 3,
+        "email": "usuario3@example.com",
+        "senha": "senha789"
+    },
+    {
+        "id": 4,
+        "email": "usuario4@example.com",
+        "senha": "senhaABC"
+    },
+    {
+        "id": 5,
+        "email": "usuario5@example.com",
+        "senha": "senhaDEF"
+    },
+    {
+        "id": 6,
+        "email": "usuario6@example.com",
+        "senha": "senhaGHI"
+    },
+    {
+        "id": 7,
+        "email": "usuario7@example.com",
+        "senha": "senhaJKL"
+    },
+    {
+        "id": 8,
+        "email": "usuario8@example.com",
+        "senha": "senhaMNO"
+    },
+    {
+        "id": 9,
+        "email": "usuario9@example.com",
+        "senha": "senhaPQR"
+    },
+    {
+        "id": 10,
+        "email": "usuario10@example.com",
+        "senha": "senhaSTU"
+    }
+]

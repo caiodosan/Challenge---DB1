@@ -1,0 +1,102 @@
+[
+  {
+    "id_user": 1,
+    "nome": "João",
+    "tipo": "A",
+    "idade": 30,
+    "area_trabalho": "Tecnologia da Informação JavaScript",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Bacharelado em Ciência da Computação",
+    "experiencia": "Desenvolvedor de software com 5 anos de experiência"
+  },
+  {
+    "id_user": 2,
+    "nome": "Maria",
+    "tipo": "M",
+    "idade": 28,
+    "area_trabalho": "Engenharia Civil JavaScript",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Engenharia Civil",
+    "experiencia": "Engenheira civil com 3 anos de experiência"
+  },
+  {
+    "id_user": 3,
+    "nome": "Ana",
+    "tipo": "M",
+    "idade": 35,
+    "area_trabalho": "Marketing Digital",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Marketing",
+    "experiencia": "Especialista em marketing digital com 7 anos de experiência"
+  },
+  {
+    "id_user": 4,
+    "nome": "Pedro",
+    "tipo": "A",
+    "idade": 25,
+    "area_trabalho": "Recursos Humanos",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Psicologia JavaScript",
+    "experiencia": "Profissional de RH com 2 anos de experiência"
+  },
+  {
+    "id_user": 5,
+    "nome": "Juliana",
+    "tipo": "M",
+    "idade": 32,
+    "area_trabalho": "Educação",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Pedagogia",
+    "experiencia": "Professora com 8 anos de experiência JavaScript"
+  },
+  {
+    "id_user": 6,
+    "nome": "Carlos",
+    "tipo": "M",
+    "idade": 40,
+    "area_trabalho": "Saúde",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Medicina",
+    "experiencia": "Médico com 15 anos de experiência"
+  },
+  {
+    "id_user": 7,
+    "nome": "Mariana",
+    "tipo": "M",
+    "idade": 27,
+    "area_trabalho": "Design Gráfico",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Design Gráfico",
+    "experiencia": "Designer com 4 anos de experiência"
+  },
+  {
+    "id_user": 8,
+    "nome": "Lucas",
+    "tipo": "M",
+    "idade": 29,
+    "area_trabalho": "Finanças",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Administração",
+    "experiencia": "Analista financeiro com 6 anos de experiência"
+  },
+  {
+    "id_user": 9,
+    "nome": "Amanda",
+    "tipo": "A",
+    "idade": 31,
+    "area_trabalho": "Direito",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Direito",
+    "experiencia": "Advogada com 9 anos de experiência"
+  },
+  {
+    "id_user": 10,
+    "nome": "Felipe",
+    "tipo": "A",
+    "idade": 26,
+    "area_trabalho": "Vendas",
+    "habilidades": "JavaScript,Python,SQL",
+    "formacao_academica": "Administração",
+    "experiencia": "Gerente de vendas com 4 anos de experiência"
+  }
+]
